@@ -34,7 +34,7 @@ Trabalhei como Desenvolvedor Web na Integrativa criando fómularios e
 <!--## Educação
 - [Liste sua formação acadêmica, incluindo o nome da instituição, o título do curso e o ano de conclusão.] -->
 
-#### Você também me encontra em:
+#### 🗺️Você também pode me encontrar:
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo-blue.svg)](https://www.linkedin.com/in/leonardo-soares-6a8b401a7/) -->
   <a href="https://www.linkedin.com/in/leonardo-soares-6a8b401a7/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
