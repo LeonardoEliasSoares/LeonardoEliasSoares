@@ -35,7 +35,14 @@ Trabalhei como Desenvolvedor Web na Integrativa criando fómularios e
 - [Liste sua formação acadêmica, incluindo o nome da instituição, o título do curso e o ano de conclusão.] -->
 
 #### Você também me encontra em:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo-blue.svg)](https://www.linkedin.com/in/leonardo-soares-6a8b401a7/)
+<!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo-blue.svg)](https://www.linkedin.com/in/leonardo-soares-6a8b401a7/) -->
+  <a href="https://www.linkedin.com/in/leonardo-soares-6a8b401a7/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <br>
+<!--     <a href="https://www.instagram.com/leoeliassoares/">
+        <img src="https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram" alt="LinkedIn">
+    </a> -->
 
 <!--- Portfolio: [Link para seu portfólio online ou site pessoal, se tiver]-->
 
