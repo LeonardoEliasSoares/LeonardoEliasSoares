@@ -1,8 +1,8 @@
-### Leonardo aqui 👋
+### Leonardo aqui 🙋🏻‍♂️
 
-Bem-vindo ao meu perfil do GitHub. Sou um profissional apaixonado por tecnologia e estou em busca de novas oportunidades na área de Desenvolvimento Web.
+Bem-vindo ao meu perfil do GitHub. Sou um profissional apaixonado por tecnologia e estou sempre em busca de novos desafios na área de Desenvolvimento Web.
 
-- 🤓 Formado em Gestão da Tecnologia da Informação.
+- 👨🏻‍🎓 Formado em Gestão da Tecnologia da Informação.
 - 💻 Experiência em Desenvolvimento Web utilizando Angular e .Net Core.
 - 👨🏻‍💻 Motivado por desafios e sempre em busca de aprender algo novo.
 - 🖥️ Atualmente mais focado em:
@@ -34,7 +34,7 @@ Trabalhei como Desenvolvedor Web na Integrativa criando fómularios e
 <!--## Educação
 - [Liste sua formação acadêmica, incluindo o nome da instituição, o título do curso e o ano de conclusão.] -->
 
-### Você também me encontra em:
+#### Você também me encontra em:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo-blue.svg)](https://www.linkedin.com/in/leonardo-soares-6a8b401a7/)
 
 <!--- Portfolio: [Link para seu portfólio online ou site pessoal, se tiver]-->
