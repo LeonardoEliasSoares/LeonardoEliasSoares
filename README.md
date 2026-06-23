@@ -8,8 +8,11 @@ Bem-vindo ao meu perfil do GitHub. Sou um profissional apaixonado por tecnologia
 - 🖥️ Atualmente mais focado em:
 <div display="inline">
    &nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
+   &nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   &nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    &nbsp;&nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
    &nbsp;&nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   &nbsp;&nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
           
           
@@ -18,6 +21,7 @@ Bem-vindo ao meu perfil do GitHub. Sou um profissional apaixonado por tecnologia
 <!--## Habilidades técnicas 👨🏻‍💻
 C#, 
 Angular,
+Spring,
 Entity Framework,
 PostgreSQL,
 Git,
