@@ -1,56 +1,132 @@
-### Leonardo aqui 🙋🏻‍♂️
+<h1 align="center">Olá 👋 Eu sou Leonardo Soares</h1>
 
-Bem-vindo ao meu perfil do GitHub. Sou um profissional apaixonado por tecnologia e estou sempre em busca de novos desafios na área de Desenvolvimento Web.
+<h3 align="center">
+Analista de Sistemas • Backend Developer • Angular • .NET • Spring Boot
+</h3>
 
-- 👨🏻‍🎓 Formado em Gestão da Tecnologia da Informação.
-- 💻 Experiência em Desenvolvimento Web utilizando Angular e .Net Core.
-- 👨🏻‍💻 Motivado por desafios e sempre em busca de aprender algo novo.
-- 🖥️ Atualmente mais focado em:
-<div display="inline">
-   &nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
-   &nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-   &nbsp;&nbsp;&nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   &nbsp;&nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-   &nbsp;&nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   &nbsp;&nbsp; <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-</div>
-          
-          
-          
-          
-<!--## Habilidades técnicas 👨🏻‍💻
-C#, 
-Angular,
-Spring,
-Entity Framework,
-PostgreSQL,
-Git,
-Metodologias ágeis scrum.-->
-<!-- - [Liste aqui suas principais habilidades técnicas relevantes para a área de trabalho que você procura, como linguagens de programação, frameworks, tecnologias, etc.]
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Analista+de+Sistemas;Backend+Developer;Angular;.NET;Spring+Boot;Sempre+aprendendo+algo+novo!" />
+</p>
 
-## Projetos destacados
-- [Destaque alguns projetos relevantes que você concluiu ou contribuiu significativamente, com uma breve descrição de cada um e o link para o repositório correspondente.]-->
+---
 
-<!--## Experiência profissional
-Trabalhei como Desenvolvedor Web na Integrativa criando fómularios e 
-<!-- - [Se tiver experiência de trabalho relevante, liste suas posições anteriores, incluindo o nome da empresa, o período de trabalho e uma breve descrição das responsabilidades e conquistas.] -->
+## 👨🏻‍💻 Sobre mim
 
-<!--## Educação
-- [Liste sua formação acadêmica, incluindo o nome da instituição, o título do curso e o ano de conclusão.] -->
+Atualmente estou atuando como **Analista de Sistemas** apaixonado por tecnologia e desenvolvimento de software.
 
-#### 🗺️Você também pode me encontrar:
-<!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo-blue.svg)](https://www.linkedin.com/in/leonardo-soares-6a8b401a7/) -->
-  <a href="https://www.linkedin.com/in/leonardo-soares-6a8b401a7/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <br>
-<!--     <a href="https://www.instagram.com/leoeliassoares/">
-        <img src="https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram" alt="LinkedIn">
-    </a> -->
+Tenho experiência em:
 
-<!--- Portfolio: [Link para seu portfólio online ou site pessoal, se tiver]-->
+- 💻 Desenvolvimento Web
+- ⚙️ APIs REST
+- 🗄️ Oracle Database
+- 🔗 Integração entre Sistemas
 
-Fique à vontade para entrar em contato comigo para novas oportunidades, colaborações ou qualquer outra questão relacionada à tecnologia. Estou animado para fazer parte de projetos desafiadores e contribuir com meu conhecimento e habilidades.
+Atualmente estou aprofundando meus conhecimentos em:
 
-Obrigado por visitar meu perfil!
+- ☕ Java
+- 🌱 Spring Boot
+- 🐳 Docker
+- ☁️ AWS
+- 🏗️ Arquitetura Backend
+
+---
+
+# 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,cs,dotnet,spring,java,git,github,postgres,docker,idea,vscode"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
+
+</p>
+
+---
+
+# 🌱 Atualmente
+
+- 💼 Analista de Sistemas
+- ☕ Aprendendo Spring Boot
+- 🚀 Evoluindo em Arquitetura Backend
+- 📚 Estudando Microsserviços
+
+---
+
+# 🎯 Objetivos
+
+✔ Angular
+
+✔ .NET
+
+✔ Oracle
+
+✔ SQL
+
+✔ APIs REST
+
+🔄 Spring Boot
+
+🔄 Docker
+
+🔄 Kubernetes
+
+🔄 AWS
+
+🔄 Microsserviços
+
+---
+
+# 💼 Experiência
+
+### 🏭 ERP Corporativo
+
+- Desenvolvimento de funcionalidades
+- Correção de bugs
+- Banco Oracle
+- Integração entre sistemas
+- Otimização de consultas SQL
+- Automação de processos internos
+- Desenvolvimento de soluções para o setor sucroenergético
+
+---
+
+# 📚 Atualmente estudando
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,java,docker,aws"/>
+
+</p>
+
+---
+
+# 🌎 Onde me encontrar
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/leonardo-soares-6a8b401a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/LeonardoEliasSoares">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeonardoEliasSoares&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeonardoEliasSoares&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img 
+     width="100%"
+     src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E3A8A,50:2563EB,100:60A5FA&section=footer"/>
+</p>
+
 
