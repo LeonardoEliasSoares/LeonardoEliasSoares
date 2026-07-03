@@ -84,8 +84,6 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 # 💼 Experiência
 
-### 🏭 ERP Corporativo
-
 - Desenvolvimento de funcionalidades
 - Correção de bugs
 - Banco Oracle
