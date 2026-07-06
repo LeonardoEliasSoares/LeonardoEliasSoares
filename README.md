@@ -96,18 +96,12 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 # 📚 Atualmente estudando
 
-<!--<p align="center">-->
-
-<!--<img src="https://skillicons.dev/icons?i=spring,java,docker,aws"/>-->
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50"/>
 </p>
-
-<!--</p>-->
 
 ---
 
@@ -137,5 +131,3 @@ Atualmente estou aprofundando meus conhecimentos em:
      width="100%"
      src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E3A8A,50:2563EB,100:60A5FA&section=footer"/>
 </p>
-
-
