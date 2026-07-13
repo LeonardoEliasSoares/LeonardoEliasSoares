@@ -58,30 +58,6 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-# 🎯 Objetivos
-
-✔ Angular
-
-✔ .NET
-
-✔ Oracle
-
-✔ SQL
-
-✔ APIs REST
-
-🔄 Spring Boot
-
-🔄 Docker
-
-🔄 Kubernetes
-
-🔄 AWS
-
-🔄 Microsserviços
-
----
-
 # 💼 Experiência
 
 - Desenvolvimento de funcionalidades
