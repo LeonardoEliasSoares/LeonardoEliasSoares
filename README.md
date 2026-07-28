@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 Eu sou Leonardo Soares</h1>
 
 <h3 align="center">
-Analista de Sistemas • Backend Developer • Angular • .NET • Spring Boot
+Java Backend Developer • Spring Boot • REST APIs • Angular • Analista de Sistemas
 </h3>
 
 <p align="center">
