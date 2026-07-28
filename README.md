@@ -5,7 +5,7 @@ Java Backend Developer • Spring Boot • REST APIs • Angular • Analista de
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Analista+de+Sistemas;Backend+Developer;Angular;.NET;Spring+Boot;Sempre+aprendendo+algo+novo!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot;REST+API's;Angular;Analista+de+Sistemas;Sempre+aprendendo+algo+novo!" />
 </p>
 
 ---
