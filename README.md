@@ -103,13 +103,13 @@ Atualmente estou aprofundando meus conhecimentos em:
 ---
 
 <p align="center">
-  <img 
-     width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E3A8A,50:2563EB,100:60A5FA&section=footer"/>
+  <img src="https://raw.githubusercontent.com/LeonardoEliasSoares/LeonardoEliasSoares/output/github-snake.svg">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeonardoEliasSoares/LeonardoEliasSoares/output/github-snake.svg">
+  <img 
+     width="100%"
+     src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E3A8A,50:2563EB,100:60A5FA&section=footer"/>
 </p>
